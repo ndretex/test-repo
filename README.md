@@ -1,4 +1,4 @@
 # test-repo
 This is a test repository.
 
-first modification
+first modification, not so bad
